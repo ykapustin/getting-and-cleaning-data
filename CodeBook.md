@@ -1,15 +1,9 @@
-a code book that describes the variables, the data, and any transformations or work that you performed 
-to clean up the data called CodeBook.md
-
-
-Human Activity Recognition Using Smartphones Tidy Data Set 
-
 # Description
 
 Data was generated based on Human Activity Recognition Using Smartphones Data Set stored at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Transformations
-un_analysis.R script performs following operation to generate tidy data set:
+run_analysis.R script performs following operation to generate tidy data set:
 
 1. Downloads the data
 1. Merges the training and the test sets to create one data set.
