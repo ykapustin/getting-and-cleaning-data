@@ -22,6 +22,15 @@ run_analysis.R script performs following operation to generate tidy data set:
 
 ## Measurements
 
+### Glossary
+* `Acc` Acceleromenter
+* `Gyro` Gyroscope
+* `X` or `Y` : Axis in which the measure was collected
+* `Std` Standard deviation
+* `Mean` Mean of the measurement
+* `Gravity` To indicate gravity signals
+
+### Variables
  * `timeBodyAccMean.X`
  * `timeBodyAccMean.Y`
  * `timeBodyAccMean.Z`
